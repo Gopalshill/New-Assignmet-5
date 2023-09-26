@@ -1,0 +1,153 @@
+
+.a1{
+    font-size: 50px;
+    color: #151414;
+}
+
+.aa{
+    width: 350px;
+    text-align: right;
+    margin: 100px 400px ;
+    padding: 70px;
+       
+}
+
+.bu{
+    height: 45px;
+    width:110px;
+    border-radius: 5px;
+    background-color:#f15b22;
+    border: none;
+    color: white;  
+    font-size: large;
+}
+
+#ss1{ 
+    height: 100vh;
+    background-image: url(./images/banner/banner1.png);
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    display: flex;
+    justify-content: end;
+}
+
+.bb{
+    display: flex;
+    align-items: center;
+    color: #151414;
+    justify-content: space-evenly;
+    
+}
+
+.b1{ 
+    font-size: 40px;
+    width: 250px;
+
+}
+.b2{
+    width:300px;
+}
+
+.b3>li{ 
+    list-style:none;
+    padding: 5px;
+}
+
+span{
+    color: #16d887;
+}
+
+.cc {
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.bc{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.c1{
+    width: 300px;
+    text-align: center;    
+}
+
+.c1>p{
+    font-size:x-large;
+    color: #737272;
+}
+
+#ss3{
+    background-image: url(./images/watch.png);
+    background-repeat: no-repeat;
+    height: 40vh;
+    margin-left: 370px;   
+}
+
+.dd{
+    background-image: url(./images/gradient2.png);
+    background-repeat: no-repeat;
+    height: 40vh;
+    padding-left: 90px;
+}
+.d1{
+    font-size: 45px;
+    padding-top: 40px;
+    color: white;
+}
+
+.bu2{
+    
+    height: 60px;
+    width:140px;
+    border-radius: 5px;
+    background-color:white;
+    border: none;
+    color:#f15b22; 
+    font-size:x-large;
+    font-weight: bold;
+}
+
+#ss4{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.ee{
+    background-color: #151414;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+
+}
+
+.e1{
+    width: 300px;
+    color: white;
+}
+
+.e3{
+    color: white;
+    
+}
+.e2{
+    display: flex;
+   gap: 10px;
+}
+input{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: #151414;
+    padding: 5px;
+    padding-left: 20px;
+    font-size: 20px;
+    
+}
+input::placeholder{
+    color: #f3f3f3;
+}
